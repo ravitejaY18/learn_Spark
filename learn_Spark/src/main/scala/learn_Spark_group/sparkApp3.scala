@@ -15,7 +15,7 @@ object sparkApp3 {
 
     import spark.implicits._
 
-    // Create a DataFrame2
+    // Create a DataFrame3
     val data = Seq(
       ("Alice", 25),
       ("Bob", 30),
